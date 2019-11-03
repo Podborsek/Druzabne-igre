@@ -1,0 +1,2002 @@
+[
+    [
+        "/boardgame/13/catan",
+        "Catan"
+    ],
+    [
+        "/boardgame/822/carcassonne",
+        "Carcassonne"
+    ],
+    [
+        "/boardgame/30549/pandemic",
+        "Pandemic"
+    ],
+    [
+        "/boardgame/68448/7-wonders",
+        "7 Wonders"
+    ],
+    [
+        "/boardgame/36218/dominion",
+        "Dominion"
+    ],
+    [
+        "/boardgame/9209/ticket-ride",
+        "Ticket to Ride"
+    ],
+    [
+        "/boardgame/31260/agricola",
+        "Agricola"
+    ],
+    [
+        "/boardgame/3076/puerto-rico",
+        "Puerto Rico"
+    ],
+    [
+        "/boardgame/40692/small-world",
+        "Small World"
+    ],
+    [
+        "/boardgame/178900/codenames",
+        "Codenames"
+    ],
+    [
+        "/boardgame/2651/power-grid",
+        "Power Grid"
+    ],
+    [
+        "/boardgame/70323/king-tokyo",
+        "King of Tokyo"
+    ],
+    [
+        "/boardgame/14996/ticket-ride-europe",
+        "Ticket to Ride: Europe"
+    ],
+    [
+        "/boardgame/129622/love-letter",
+        "Love Letter"
+    ],
+    [
+        "/boardgame/148228/splendor",
+        "Splendor"
+    ],
+    [
+        "/boardgame/167791/terraforming-mars",
+        "Terraforming Mars"
+    ],
+    [
+        "/boardgame/173346/7-wonders-duel",
+        "7 Wonders Duel"
+    ],
+    [
+        "/boardgame/478/citadels",
+        "Citadels"
+    ],
+    [
+        "/boardgame/169786/scythe",
+        "Scythe"
+    ],
+    [
+        "/boardgame/39856/dixit",
+        "Dixit"
+    ],
+    [
+        "/boardgame/28143/race-galaxy",
+        "Race for the Galaxy"
+    ],
+    [
+        "/boardgame/110327/lords-waterdeep",
+        "Lords of Waterdeep"
+    ],
+    [
+        "/boardgame/34635/stone-age",
+        "Stone Age"
+    ],
+    [
+        "/boardgame/84876/castles-burgundy",
+        "The Castles of Burgundy"
+    ],
+    [
+        "/boardgame/1927/munchkin",
+        "Munchkin"
+    ],
+    [
+        "/boardgame/65244/forbidden-island",
+        "Forbidden Island"
+    ],
+    [
+        "/boardgame/163412/patchwork",
+        "Patchwork"
+    ],
+    [
+        "/boardgame/12333/twilight-struggle",
+        "Twilight Struggle"
+    ],
+    [
+        "/boardgame/15987/arkham-horror",
+        "Arkham Horror"
+    ],
+    [
+        "/boardgame/11/bohnanza",
+        "Bohnanza"
+    ],
+    [
+        "/boardgame/230802/azul",
+        "Azul"
+    ],
+    [
+        "/boardgame/150376/dead-winter-crossroads-game",
+        "Dead of Winter: A Crossroads Game"
+    ],
+    [
+        "/boardgame/120677/terra-mystica",
+        "Terra Mystica"
+    ],
+    [
+        "/boardgame/98778/hanabi",
+        "Hanabi"
+    ],
+    [
+        "/boardgame/161936/pandemic-legacy-season-1",
+        "Pandemic Legacy: Season 1"
+    ],
+    [
+        "/boardgame/50/lost-cities",
+        "Lost Cities"
+    ],
+    [
+        "/boardgame/41114/resistance",
+        "The Resistance"
+    ],
+    [
+        "/boardgame/10547/betrayal-house-hill",
+        "Betrayal at House on the Hill"
+    ],
+    [
+        "/boardgame/131357/coup",
+        "Coup"
+    ],
+    [
+        "/boardgame/37111/battlestar-galactica-board-game",
+        "Battlestar Galactica: The Board Game"
+    ],
+    [
+        "/boardgame/147020/star-realms",
+        "Star Realms"
+    ],
+    [
+        "/boardgame/54043/jaipur",
+        "Jaipur"
+    ],
+    [
+        "/boardgame/70919/takenoko",
+        "Takenoko"
+    ],
+    [
+        "/boardgame/174430/gloomhaven",
+        "Gloomhaven"
+    ],
+    [
+        "/boardgame/463/magic-gathering",
+        "Magic: The Gathering"
+    ],
+    [
+        "/boardgame/121921/robinson-crusoe-adventures-cursed-island",
+        "Robinson Crusoe: Adventures on the Cursed Island"
+    ],
+    [
+        "/boardgame/133473/sushi-go",
+        "Sushi Go!"
+    ],
+    [
+        "/boardgame/40834/dominion-intrigue",
+        "Dominion: Intrigue"
+    ],
+    [
+        "/boardgame/170216/blood-rage",
+        "Blood Rage"
+    ],
+    [
+        "/boardgame/157354/five-tribes",
+        "Five Tribes"
+    ],
+    [
+        "/boardgame/181/risk",
+        "Risk"
+    ],
+    [
+        "/boardgame/31481/galaxy-trucker",
+        "Galaxy Trucker"
+    ],
+    [
+        "/boardgame/6249/alhambra",
+        "Alhambra"
+    ],
+    [
+        "/boardgame/2655/hive",
+        "Hive"
+    ],
+    [
+        "/boardgame/126163/tzolk-mayan-calendar",
+        "Tzolk'in: The Mayan Calendar"
+    ],
+    [
+        "/boardgame/181304/mysterium",
+        "Mysterium"
+    ],
+    [
+        "/boardgame/103343/game-thrones-board-game-second-edition",
+        "A Game of Thrones: The Board Game (Second Edition)"
+    ],
+    [
+        "/boardgame/157969/sheriff-nottingham",
+        "Sheriff of Nottingham"
+    ],
+    [
+        "/boardgame/18602/caylus",
+        "Caylus"
+    ],
+    [
+        "/boardgame/171/chess",
+        "Chess"
+    ],
+    [
+        "/boardgame/146021/eldritch-horror",
+        "Eldritch Horror"
+    ],
+    [
+        "/boardgame/124742/android-netrunner",
+        "Android: Netrunner"
+    ],
+    [
+        "/boardgame/39463/cosmic-encounter",
+        "Cosmic Encounter"
+    ],
+    [
+        "/boardgame/102794/caverna-cave-farmers",
+        "Caverna: The Cave Farmers"
+    ],
+    [
+        "/boardgame/96848/mage-knight-board-game",
+        "Mage Knight Board Game"
+    ],
+    [
+        "/boardgame/72125/eclipse",
+        "Eclipse"
+    ],
+    [
+        "/boardgame/1406/monopoly",
+        "Monopoly"
+    ],
+    [
+        "/boardgame/3955/bang",
+        "BANG!"
+    ],
+    [
+        "/boardgame/15062/shadows-over-camelot",
+        "Shadows over Camelot"
+    ],
+    [
+        "/boardgame/35677/le-havre",
+        "Le Havre"
+    ],
+    [
+        "/boardgame/320/scrabble",
+        "Scrabble"
+    ],
+    [
+        "/boardgame/128882/resistance-avalon",
+        "The Resistance: Avalon"
+    ],
+    [
+        "/boardgame/42/tigris-euphrates",
+        "Tigris & Euphrates"
+    ],
+    [
+        "/boardgame/10630/memoir-44",
+        "Memoir '44"
+    ],
+    [
+        "/boardgame/204583/kingdomino",
+        "Kingdomino"
+    ],
+    [
+        "/boardgame/132531/roll-galaxy",
+        "Roll for the Galaxy"
+    ],
+    [
+        "/boardgame/143884/machi-koro",
+        "Machi Koro"
+    ],
+    [
+        "/boardgame/9220/saboteur",
+        "Saboteur"
+    ],
+    [
+        "/boardgame/136063/forbidden-desert",
+        "Forbidden Desert"
+    ],
+    [
+        "/boardgame/193738/great-western-trail",
+        "Great Western Trail"
+    ],
+    [
+        "/boardgame/124361/concordia",
+        "Concordia"
+    ],
+    [
+        "/boardgame/93/el-grande",
+        "El Grande"
+    ],
+    [
+        "/boardgame/18/roborally",
+        "RoboRally"
+    ],
+    [
+        "/boardgame/148949/istanbul",
+        "Istanbul"
+    ],
+    [
+        "/boardgame/103885/star-wars-x-wing-miniatures-game",
+        "Star Wars: X-Wing Miniatures Game"
+    ],
+    [
+        "/boardgame/122522/smash",
+        "Smash Up"
+    ],
+    [
+        "/boardgame/8217/san-juan",
+        "San Juan"
+    ],
+    [
+        "/boardgame/16992/tsuro",
+        "Tsuro"
+    ],
+    [
+        "/boardgame/172/sale",
+        "For Sale"
+    ],
+    [
+        "/boardgame/2453/blokus",
+        "Blokus"
+    ],
+    [
+        "/boardgame/146508/time-stories",
+        "T.I.M.E Stories"
+    ],
+    [
+        "/boardgame/50381/cards-against-humanity",
+        "Cards Against Humanity"
+    ],
+    [
+        "/boardgame/158899/colt-express",
+        "Colt Express"
+    ],
+    [
+        "/boardgame/104162/descent-journeys-dark-second-edition",
+        "Descent: Journeys in the Dark (Second Edition)"
+    ],
+    [
+        "/boardgame/183394/viticulture-essential-edition",
+        "Viticulture Essential Edition"
+    ],
+    [
+        "/boardgame/100423/elder-sign",
+        "Elder Sign"
+    ],
+    [
+        "/boardgame/194655/santorini",
+        "Santorini"
+    ],
+    [
+        "/boardgame/201808/clank-deck-building-adventure",
+        "Clank!: A Deck-Building Adventure"
+    ],
+    [
+        "/boardgame/205637/arkham-horror-card-game",
+        "Arkham Horror: The Card Game"
+    ],
+    [
+        "/boardgame/153938/camel",
+        "Camel Up"
+    ],
+    [
+        "/boardgame/155426/castles-mad-king-ludwig",
+        "Castles of Mad King Ludwig"
+    ],
+    [
+        "/boardgame/123260/suburbia",
+        "Suburbia"
+    ],
+    [
+        "/boardgame/77423/lord-rings-card-game",
+        "The Lord of the Rings: The Card Game"
+    ],
+    [
+        "/boardgame/100901/flash-point-fire-rescue",
+        "Flash Point: Fire Rescue"
+    ],
+    [
+        "/boardgame/205059/mansions-madness-second-edition",
+        "Mansions of Madness: Second Edition"
+    ],
+    [
+        "/boardgame/154203/imperial-settlers",
+        "Imperial Settlers"
+    ],
+    [
+        "/boardgameexpansion/2993/carcassonne-expansion-1-inns-cathedrals",
+        "Carcassonne: Expansion 1 – Inns & Cathedrals"
+    ],
+    [
+        "/boardgame/108745/seasons",
+        "Seasons"
+    ],
+    [
+        "/boardgame/12942/no-thanks",
+        "No Thanks!"
+    ],
+    [
+        "/boardgame/116/guillotine",
+        "Guillotine"
+    ],
+    [
+        "/boardgame/187645/star-wars-rebellion",
+        "Star Wars: Rebellion"
+    ],
+    [
+        "/boardgame/104006/village",
+        "Village"
+    ],
+    [
+        "/boardgame/147949/one-night-ultimate-werewolf",
+        "One Night Ultimate Werewolf"
+    ],
+    [
+        "/boardgame/2653/survive-escape-atlantis",
+        "Survive: Escape from Atlantis!"
+    ],
+    [
+        "/boardgame/8203/hey-s-my-fish",
+        "Hey, That's My Fish!"
+    ],
+    [
+        "/boardgame/37046/ghost-stories",
+        "Ghost Stories"
+    ],
+    [
+        "/boardgame/12/ra",
+        "Ra"
+    ],
+    [
+        "/boardgame/2223/uno",
+        "UNO"
+    ],
+    [
+        "/boardgame/129437/legendary-marvel-deck-building-game",
+        "Legendary: A Marvel Deck Building Game"
+    ],
+    [
+        "/boardgame/164153/star-wars-imperial-assault",
+        "Star Wars: Imperial Assault"
+    ],
+    [
+        "/boardgame/199561/sagrada",
+        "Sagrada"
+    ],
+    [
+        "/boardgame/12493/twilight-imperium-third-edition",
+        "Twilight Imperium (Third Edition)"
+    ],
+    [
+        "/boardgame/27162/kingsburg",
+        "Kingsburg"
+    ],
+    [
+        "/boardgame/182028/through-ages-new-story-civilization",
+        "Through the Ages: A New Story of Civilization"
+    ],
+    [
+        "/boardgame/164928/orleans",
+        "Orléans"
+    ],
+    [
+        "/boardgame/107529/kingdom-builder",
+        "Kingdom Builder"
+    ],
+    [
+        "/boardgame/5/acquire",
+        "Acquire"
+    ],
+    [
+        "/boardgame/25613/through-ages-story-civilization",
+        "Through the Ages: A Story of Civilization"
+    ],
+    [
+        "/boardgame/123540/tokaido",
+        "Tokaido"
+    ],
+    [
+        "/boardgame/21790/thurn-and-taxis",
+        "Thurn and Taxis"
+    ],
+    [
+        "/boardgame/143741/bang-dice-game",
+        "BANG! The Dice Game"
+    ],
+    [
+        "/boardgame/176494/isle-skye-chieftain-king",
+        "Isle of Skye: From Chieftain to King"
+    ],
+    [
+        "/boardgame/122515/keyflower",
+        "Keyflower"
+    ],
+    [
+        "/boardgame/171623/voyages-marco-polo",
+        "The Voyages of Marco Polo"
+    ],
+    [
+        "/boardgame/54/tikal",
+        "Tikal"
+    ],
+    [
+        "/boardgame/74/apples-apples",
+        "Apples to Apples"
+    ],
+    [
+        "/boardgame/432/6-nimmt",
+        "6 nimmt!"
+    ],
+    [
+        "/boardgame/5782/coloretto",
+        "Coloretto"
+    ],
+    [
+        "/boardgame/62219/dominant-species",
+        "Dominant Species"
+    ],
+    [
+        "/boardgame/28720/brass-lancashire",
+        "Brass: Lancashire"
+    ],
+    [
+        "/boardgame/166384/spyfall",
+        "Spyfall"
+    ],
+    [
+        "/boardgame/54998/cyclades",
+        "Cyclades"
+    ],
+    [
+        "/boardgame/73439/troyes",
+        "Troyes"
+    ],
+    [
+        "/boardgame/266192/wingspan",
+        "Wingspan"
+    ],
+    [
+        "/boardgame/192291/sushi-go-party",
+        "Sushi Go Party!"
+    ],
+    [
+        "/boardgame/161970/alchemists",
+        "Alchemists"
+    ],
+    [
+        "/boardgame/1294/clue",
+        "Clue"
+    ],
+    [
+        "/boardgameexpansion/926/catan-cities-knights",
+        "Catan: Cities & Knights"
+    ],
+    [
+        "/boardgame/37904/formula-d",
+        "Formula D"
+    ],
+    [
+        "/boardgame/172225/exploding-kittens",
+        "Exploding Kittens"
+    ],
+    [
+        "/boardgame/24480/pillars-earth",
+        "The Pillars of the Earth"
+    ],
+    [
+        "/boardgame/15512/diamant",
+        "Diamant"
+    ],
+    [
+        "/boardgame/124708/mice-and-mystics",
+        "Mice and Mystics"
+    ],
+    [
+        "/boardgame/62871/zombie-dice",
+        "Zombie Dice"
+    ],
+    [
+        "/boardgame/113924/zombicide",
+        "Zombicide"
+    ],
+    [
+        "/boardgame/118/modern-art",
+        "Modern Art"
+    ],
+    [
+        "/boardgameexpansion/40849/pandemic-brink",
+        "Pandemic: On the Brink"
+    ],
+    [
+        "/boardgameexpansion/325/catan-seafarers",
+        "Catan: Seafarers"
+    ],
+    [
+        "/boardgame/9674/ingenious",
+        "Ingenious"
+    ],
+    [
+        "/boardgame/258/fluxx",
+        "Fluxx"
+    ],
+    [
+        "/boardgame/760/battle-line",
+        "Battle Line"
+    ],
+    [
+        "/boardgame/28023/jamaica",
+        "Jamaica"
+    ],
+    [
+        "/boardgameexpansion/5405/carcassonne-expansion-2-traders-builders",
+        "Carcassonne: Expansion 2 – Traders & Builders"
+    ],
+    [
+        "/boardgame/113294/escape-curse-temple",
+        "Escape: The Curse of the Temple"
+    ],
+    [
+        "/boardgame/162886/spirit-island",
+        "Spirit Island"
+    ],
+    [
+        "/boardgame/2511/sherlock-holmes-consulting-detective-thames-murder",
+        "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases"
+    ],
+    [
+        "/boardgame/209685/century-spice-road",
+        "Century: Spice Road"
+    ],
+    [
+        "/boardgame/555/princes-florence",
+        "The Princes of Florence"
+    ],
+    [
+        "/boardgame/92828/dixit-odyssey",
+        "Dixit: Odyssey"
+    ],
+    [
+        "/boardgame/25669/qwirkle",
+        "Qwirkle"
+    ],
+    [
+        "/boardgame/127023/kemet",
+        "Kemet"
+    ],
+    [
+        "/boardgame/43570/friday",
+        "Friday"
+    ],
+    [
+        "/boardgame/21763/mr-jack",
+        "Mr. Jack"
+    ],
+    [
+        "/boardgame/38453/space-alert",
+        "Space Alert"
+    ],
+    [
+        "/boardgame/2471/zombies",
+        "Zombies!!!"
+    ],
+    [
+        "/boardgame/3/samurai",
+        "Samurai"
+    ],
+    [
+        "/boardgame/198773/codenames-pictures",
+        "Codenames: Pictures"
+    ],
+    [
+        "/boardgame/102652/sentinels-multiverse",
+        "Sentinels of the Multiverse"
+    ],
+    [
+        "/boardgame/9217/saint-petersburg",
+        "Saint Petersburg"
+    ],
+    [
+        "/boardgame/188/go",
+        "Go"
+    ],
+    [
+        "/boardgame/77130/sid-meiers-civilization-board-game",
+        "Sid Meier's Civilization: The Board Game"
+    ],
+    [
+        "/boardgameexpansion/2807/catan-5-6-player-extension",
+        "Catan: 5-6 Player Extension"
+    ],
+    [
+        "/boardgameexpansion/51811/dominion-seaside",
+        "Dominion: Seaside"
+    ],
+    [
+        "/boardgame/34219/biblios",
+        "Biblios"
+    ],
+    [
+        "/boardgame/43111/chaos-old-world",
+        "Chaos in the Old World"
+    ],
+    [
+        "/boardgame/823/lord-rings",
+        "Lord of the Rings"
+    ],
+    [
+        "/boardgame/48726/alien-frontiers",
+        "Alien Frontiers"
+    ],
+    [
+        "/boardgame/63888/innovation",
+        "Innovation"
+    ],
+    [
+        "/boardgame/27588/zooloretto",
+        "Zooloretto"
+    ],
+    [
+        "/boardgame/102680/trajan",
+        "Trajan"
+    ],
+    [
+        "/boardgame/29368/last-night-earth-zombie-game",
+        "Last Night on Earth: The Zombie Game"
+    ],
+    [
+        "/boardgame/171131/captain-sonar",
+        "Captain Sonar"
+    ],
+    [
+        "/boardgame/43443/castle-panic",
+        "Castle Panic"
+    ],
+    [
+        "/boardgame/188834/secret-hitler",
+        "Secret Hitler"
+    ],
+    [
+        "/boardgame/147151/concept",
+        "Concept"
+    ],
+    [
+        "/boardgame/438/scotland-yard",
+        "Scotland Yard"
+    ],
+    [
+        "/boardgame/144733/russian-railroads",
+        "Russian Railroads"
+    ],
+    [
+        "/boardgame/177736/feast-odin",
+        "A Feast for Odin"
+    ],
+    [
+        "/boardgame/163967/tiny-epic-galaxies",
+        "Tiny Epic Galaxies"
+    ],
+    [
+        "/boardgame/91536/quarriors",
+        "Quarriors!"
+    ],
+    [
+        "/boardgame/160499/king-new-york",
+        "King of New York"
+    ],
+    [
+        "/boardgame/1917/stratego",
+        "Stratego"
+    ],
+    [
+        "/boardgame/156129/deception-murder-hong-kong",
+        "Deception: Murder in Hong Kong"
+    ],
+    [
+        "/boardgame/127398/legends-andor",
+        "Legends of Andor"
+    ],
+    [
+        "/boardgameexpansion/66690/dominion-prosperity",
+        "Dominion: Prosperity"
+    ],
+    [
+        "/boardgame/12692/gloom",
+        "Gloom"
+    ],
+    [
+        "/boardgame/278/catan-card-game",
+        "Catan Card Game"
+    ],
+    [
+        "/boardgameexpansion/92539/7-wonders-leaders",
+        "7 Wonders: Leaders"
+    ],
+    [
+        "/boardgame/215/tichu",
+        "Tichu"
+    ],
+    [
+        "/boardgame/19857/glory-rome",
+        "Glory to Rome"
+    ],
+    [
+        "/boardgame/45315/dungeon-lords",
+        "Dungeon Lords"
+    ],
+    [
+        "/boardgame/21241/neuroshima-hex-30",
+        "Neuroshima Hex! 3.0"
+    ],
+    [
+        "/boardgame/59959/letters-whitechapel",
+        "Letters from Whitechapel"
+    ],
+    [
+        "/boardgame/20100/wits-wagers",
+        "Wits & Wagers"
+    ],
+    [
+        "/boardgame/20551/shogun",
+        "Shogun"
+    ],
+    [
+        "/boardgame/83330/mansions-madness",
+        "Mansions of Madness"
+    ],
+    [
+        "/boardgame/205896/rising-sun",
+        "Rising Sun"
+    ],
+    [
+        "/boardgame/503/through-desert",
+        "Through the Desert"
+    ],
+    [
+        "/boardgame/237182/root",
+        "Root"
+    ],
+    [
+        "/boardgame/131835/boss-monster-dungeon-building-card-game",
+        "Boss Monster: The Dungeon Building Card Game"
+    ],
+    [
+        "/boardgame/218603/photosynthesis",
+        "Photosynthesis"
+    ],
+    [
+        "/boardgame/209010/mechs-vs-minions",
+        "Mechs vs. Minions"
+    ],
+    [
+        "/boardgame/180263/7th-continent",
+        "The 7th Continent"
+    ],
+    [
+        "/boardgame/27627/talisman-revised-4th-edition",
+        "Talisman (Revised 4th Edition)"
+    ],
+    [
+        "/boardgame/209778/magic-maze",
+        "Magic Maze"
+    ],
+    [
+        "/boardgame/25292/merchants-marauders",
+        "Merchants & Marauders"
+    ],
+    [
+        "/boardgame/244992/mind",
+        "The Mind"
+    ],
+    [
+        "/boardgame/25554/notre-dame",
+        "Notre Dame"
+    ],
+    [
+        "/boardgame/155703/evolution",
+        "Evolution"
+    ],
+    [
+        "/boardgame/71721/space-hulk-death-angel-card-game",
+        "Space Hulk: Death Angel – The Card Game"
+    ],
+    [
+        "/boardgame/45/perudo",
+        "Perudo"
+    ],
+    [
+        "/boardgame/133038/pathfinder-adventure-card-game-rise-runelords-base",
+        "Pathfinder Adventure Card Game: Rise of the Runelords – Base Set"
+    ],
+    [
+        "/boardgame/160477/onitama",
+        "Onitama"
+    ],
+    [
+        "/boardgame/140620/lewis-clark",
+        "Lewis & Clark"
+    ],
+    [
+        "/boardgame/97207/dungeon-petz",
+        "Dungeon Petz"
+    ],
+    [
+        "/boardgame/483/diplomacy",
+        "Diplomacy"
+    ],
+    [
+        "/boardgame/125618/libertalia",
+        "Libertalia"
+    ],
+    [
+        "/boardgame/119890/agricola-all-creatures-big-and-small",
+        "Agricola: All Creatures Big and Small"
+    ],
+    [
+        "/boardgame/220308/gaia-project",
+        "Gaia Project"
+    ],
+    [
+        "/boardgame/41/cant-stop",
+        "Can't Stop"
+    ],
+    [
+        "/boardgame/37380/roll-through-ages-bronze-age",
+        "Roll Through the Ages: The Bronze Age"
+    ],
+    [
+        "/boardgame/17226/descent-journeys-dark",
+        "Descent: Journeys in the Dark"
+    ],
+    [
+        "/boardgame/155362/cah-n-guns-second-edition",
+        "Ca$h 'n Guns (Second Edition)"
+    ],
+    [
+        "/boardgame/66188/fresco",
+        "Fresco"
+    ],
+    [
+        "/boardgame/811/rummikub",
+        "Rummikub"
+    ],
+    [
+        "/boardgame/92415/skull",
+        "Skull"
+    ],
+    [
+        "/boardgame/34119/tales-arabian-nights",
+        "Tales of the Arabian Nights"
+    ],
+    [
+        "/boardgame/69789/ascension-deckbuilding-game",
+        "Ascension: Deckbuilding Game"
+    ],
+    [
+        "/boardgame/172818/above-and-below",
+        "Above and Below"
+    ],
+    [
+        "/boardgame/175914/food-chain-magnate",
+        "Food Chain Magnate"
+    ],
+    [
+        "/boardgame/115746/war-ring-second-edition",
+        "War of the Ring (Second Edition)"
+    ],
+    [
+        "/boardgame/9216/goa",
+        "Goa"
+    ],
+    [
+        "/boardgame/170042/raiders-north-sea",
+        "Raiders of the North Sea"
+    ],
+    [
+        "/boardgame/17133/railways-world",
+        "Railways of the World"
+    ],
+    [
+        "/boardgame/46213/telestrations",
+        "Telestrations"
+    ],
+    [
+        "/boardgame/2397/backgammon",
+        "Backgammon"
+    ],
+    [
+        "/boardgame/43015/hansa-teutonica",
+        "Hansa Teutonica"
+    ],
+    [
+        "/boardgame/171668/grizzled",
+        "The Grizzled"
+    ],
+    [
+        "/boardgame/161417/red7",
+        "Red7"
+    ],
+    [
+        "/boardgame/216132/clans-caledonia",
+        "Clans of Caledonia"
+    ],
+    [
+        "/boardgame/176189/zombicide-black-plague",
+        "Zombicide: Black Plague"
+    ],
+    [
+        "/boardgame/4390/carcassonne-hunters-and-gatherers",
+        "Carcassonne: Hunters and Gatherers"
+    ],
+    [
+        "/boardgame/156009/port-royal",
+        "Port Royal"
+    ],
+    [
+        "/boardgame/126042/nations",
+        "Nations"
+    ],
+    [
+        "/boardgame/194594/dice-forge",
+        "Dice Forge"
+    ],
+    [
+        "/boardgame/31627/ticket-ride-nordic-countries",
+        "Ticket to Ride: Nordic Countries"
+    ],
+    [
+        "/boardgameexpansion/134342/lords-waterdeep-scoundrels-skullport",
+        "Lords of Waterdeep: Scoundrels of Skullport"
+    ],
+    [
+        "/boardgame/2243/yahtzee",
+        "Yahtzee"
+    ],
+    [
+        "/boardgame/8098/jungle-speed",
+        "Jungle Speed"
+    ],
+    [
+        "/boardgame/63268/spot-it",
+        "Spot it!"
+    ],
+    [
+        "/boardgame/521/crokinole",
+        "Crokinole"
+    ],
+    [
+        "/boardgame/172287/champions-midgard",
+        "Champions of Midgard"
+    ],
+    [
+        "/boardgame/150312/welcome-dungeon",
+        "Welcome to the Dungeon"
+    ],
+    [
+        "/boardgame/31594/year-dragon",
+        "In the Year of the Dragon"
+    ],
+    [
+        "/boardgame/699/heroquest",
+        "HeroQuest"
+    ],
+    [
+        "/boardgame/118048/targi",
+        "Targi"
+    ],
+    [
+        "/boardgame/2452/jenga",
+        "Jenga"
+    ],
+    [
+        "/boardgame/93260/summoner-wars-master-set",
+        "Summoner Wars: Master Set"
+    ],
+    [
+        "/boardgame/6472/game-thrones-first-edition",
+        "A Game of Thrones (First Edition)"
+    ],
+    [
+        "/boardgame/180974/potion-explosion",
+        "Potion Explosion"
+    ],
+    [
+        "/boardgame/1198/set",
+        "SET"
+    ],
+    [
+        "/boardgame/98/axis-allies",
+        "Axis & Allies"
+    ],
+    [
+        "/boardgame/42215/tobago",
+        "Tobago"
+    ],
+    [
+        "/boardgame/53953/thunderstone",
+        "Thunderstone"
+    ],
+    [
+        "/boardgame/146652/legendary-encounters-alien-deck-building-game",
+        "Legendary Encounters: An Alien Deck Building Game"
+    ],
+    [
+        "/boardgame/90137/blood-bowl-team-manager-card-game",
+        "Blood Bowl: Team Manager – The Card Game"
+    ],
+    [
+        "/boardgame/155821/inis",
+        "Inis"
+    ],
+    [
+        "/boardgameexpansion/127067/king-tokyo-power",
+        "King of Tokyo: Power Up!"
+    ],
+    [
+        "/boardgame/22545/age-empires-iii-age-discovery",
+        "Age of Empires III: The Age of Discovery"
+    ],
+    [
+        "/boardgame/9609/war-ring-first-edition",
+        "War of the Ring (First Edition)"
+    ],
+    [
+        "/boardgame/138161/firefly-game",
+        "Firefly: The Game"
+    ],
+    [
+        "/boardgame/19237/cah-n-gun",
+        "Ca$h 'n Gun$"
+    ],
+    [
+        "/boardgameexpansion/24439/ticket-ride-usa-1910",
+        "Ticket to Ride: USA 1910"
+    ],
+    [
+        "/boardgame/182874/grand-austria-hotel",
+        "Grand Austria Hotel"
+    ],
+    [
+        "/boardgameexpansion/2591/carcassonne-river",
+        "Carcassonne: The River"
+    ],
+    [
+        "/boardgame/176396/quadropolis",
+        "Quadropolis"
+    ],
+    [
+        "/boardgame/191862/imhotep",
+        "Imhotep"
+    ],
+    [
+        "/boardgame/172386/mombasa",
+        "Mombasa"
+    ],
+    [
+        "/boardgame/1111/taboo",
+        "Taboo"
+    ],
+    [
+        "/boardgame/224037/codenames-duet",
+        "Codenames: Duet"
+    ],
+    [
+        "/boardgame/2921/game-of-life",
+        "The Game of Life"
+    ],
+    [
+        "/boardgame/136888/bruges",
+        "Bruges"
+    ],
+    [
+        "/boardgame/198994/hero-realms",
+        "Hero Realms"
+    ],
+    [
+        "/boardgame/233867/welcome",
+        "Welcome To..."
+    ],
+    [
+        "/boardgame/181279/fury-dracula-thirdfourth-edition",
+        "Fury of Dracula (Third/Fourth Edition)"
+    ],
+    [
+        "/boardgameexpansion/34499/race-galaxy-gathering-storm",
+        "Race for the Galaxy: The Gathering Storm"
+    ],
+    [
+        "/boardgame/27833/steam",
+        "Steam"
+    ],
+    [
+        "/boardgame/197376/charterstone",
+        "Charterstone"
+    ],
+    [
+        "/boardgame/1219/labyrinth",
+        "Labyrinth"
+    ],
+    [
+        "/boardgame/140934/arboretum",
+        "Arboretum"
+    ],
+    [
+        "/boardgame/70149/ora-et-labora",
+        "Ora et Labora"
+    ],
+    [
+        "/boardgame/25417/battlelore",
+        "BattleLore"
+    ],
+    [
+        "/boardgame/97786/small-world-underground",
+        "Small World Underground"
+    ],
+    [
+        "/boardgame/150/pitchcar",
+        "PitchCar"
+    ],
+    [
+        "/boardgameexpansion/111661/7-wonders-cities",
+        "7 Wonders: Cities"
+    ],
+    [
+        "/boardgame/25821/werewolves-millers-hollow",
+        "The Werewolves of Miller's Hollow"
+    ],
+    [
+        "/boardgame/68425/eminent-domain",
+        "Eminent Domain"
+    ],
+    [
+        "/boardgame/128621/viticulture",
+        "Viticulture"
+    ],
+    [
+        "/boardgame/33160/endeavor",
+        "Endeavor"
+    ],
+    [
+        "/boardgame/20963/fury-dracula-second-edition",
+        "Fury of Dracula (Second Edition)"
+    ],
+    [
+        "/boardgame/236457/architects-west-kingdom",
+        "Architects of the West Kingdom"
+    ],
+    [
+        "/boardgame/30869/thebes",
+        "Thebes"
+    ],
+    [
+        "/boardgame/39683/gates-loyang",
+        "At the Gates of Loyang"
+    ],
+    [
+        "/boardgame/169426/roll-player",
+        "Roll Player"
+    ],
+    [
+        "/boardgame/244521/quacks-quedlinburg",
+        "The Quacks of Quedlinburg"
+    ],
+    [
+        "/boardgame/233078/twilight-imperium-fourth-edition",
+        "Twilight Imperium (Fourth Edition)"
+    ],
+    [
+        "/boardgame/63628/manhattan-project",
+        "The Manhattan Project"
+    ],
+    [
+        "/boardgame/91312/discworld-ankh-morpork",
+        "Discworld: Ankh-Morpork"
+    ],
+    [
+        "/boardgame/21348/ticket-ride-marklin",
+        "Ticket to Ride: Märklin"
+    ],
+    [
+        "/boardgame/1115/poker",
+        "Poker"
+    ],
+    [
+        "/boardgame/127060/bora-bora",
+        "Bora Bora"
+    ],
+    [
+        "/boardgame/168435/between-two-cities",
+        "Between Two Cities"
+    ],
+    [
+        "/boardgame/185343/anachrony",
+        "Anachrony"
+    ],
+    [
+        "/boardgame/221107/pandemic-legacy-season-2",
+        "Pandemic Legacy: Season 2"
+    ],
+    [
+        "/boardgame/97842/last-will",
+        "Last Will"
+    ],
+    [
+        "/boardgame/199478/flamme-rouge",
+        "Flamme Rouge"
+    ],
+    [
+        "/boardgame/139030/mascarade",
+        "Mascarade"
+    ],
+    [
+        "/boardgame/150658/pandemic-cure",
+        "Pandemic: The Cure"
+    ],
+    [
+        "/boardgame/160851/lanterns-harvest-festival",
+        "Lanterns: The Harvest Festival"
+    ],
+    [
+        "/boardgame/133848/euphoria-build-better-dystopia",
+        "Euphoria: Build a Better Dystopia"
+    ],
+    [
+        "/boardgame/15363/nexus-ops",
+        "Nexus Ops"
+    ],
+    [
+        "/boardgame/66362/glen-more",
+        "Glen More"
+    ],
+    [
+        "/boardgame/5404/amun-re",
+        "Amun-Re"
+    ],
+    [
+        "/boardgame/224517/brass-birmingham",
+        "Brass: Birmingham"
+    ],
+    [
+        "/boardgame/143693/glass-road",
+        "Glass Road"
+    ],
+    [
+        "/boardgame/155068/arcadia-quest",
+        "Arcadia Quest"
+    ],
+    [
+        "/boardgame/88/torres",
+        "Torres"
+    ],
+    [
+        "/boardgame/155987/abyss",
+        "Abyss"
+    ],
+    [
+        "/boardgame/13823/fairy-tale",
+        "Fairy Tale"
+    ],
+    [
+        "/boardgame/15818/pickomino",
+        "Pickomino"
+    ],
+    [
+        "/boardgame/219513/barenpark",
+        "Bärenpark"
+    ],
+    [
+        "/boardgame/27708/1960-making-president",
+        "1960: The Making of the President"
+    ],
+    [
+        "/boardgame/27746/colosseum",
+        "Colosseum"
+    ],
+    [
+        "/boardgame/244522/s-pretty-clever",
+        "That's Pretty Clever"
+    ],
+    [
+        "/boardgameexpansion/15158/carcassonne-expansion-3-princess-dragon",
+        "Carcassonne: Expansion 3 – The Princess & The Dragon"
+    ],
+    [
+        "/boardgame/73761/k2",
+        "K2"
+    ],
+    [
+        "/boardgame/117959/las-vegas",
+        "Las Vegas"
+    ],
+    [
+        "/boardgame/24181/imperial",
+        "Imperial"
+    ],
+    [
+        "/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game",
+        "Dungeons & Dragons: Castle Ravenloft Board Game"
+    ],
+    [
+        "/boardgame/891/cranium",
+        "Cranium"
+    ],
+    [
+        "/boardgame/199042/harry-potter-hogwarts-battle",
+        "Harry Potter: Hogwarts Battle"
+    ],
+    [
+        "/boardgame/112/condottiere",
+        "Condottiere"
+    ],
+    [
+        "/boardgame/327/loopin-louie",
+        "Loopin' Louie"
+    ],
+    [
+        "/boardgame/12002/jambo",
+        "Jambo"
+    ],
+    [
+        "/boardgame/141572/paperback",
+        "Paperback"
+    ],
+    [
+        "/boardgame/2987/pirates-cove",
+        "Pirate's Cove"
+    ],
+    [
+        "/boardgame/169654/deep-sea-adventure",
+        "Deep Sea Adventure"
+    ],
+    [
+        "/boardgame/221194/dinosaur-island",
+        "Dinosaur Island"
+    ],
+    [
+        "/boardgame/140/pit",
+        "Pit"
+    ],
+    [
+        "/boardgame/176920/mission-red-planet-second-edition",
+        "Mission: Red Planet (Second Edition)"
+    ],
+    [
+        "/boardgameexpansion/66098/dominion-alchemy",
+        "Dominion: Alchemy"
+    ],
+    [
+        "/boardgame/163968/elysium",
+        "Elysium"
+    ],
+    [
+        "/boardgame/27173/vikings",
+        "Vikings"
+    ],
+    [
+        "/boardgame/30380/cuba",
+        "Cuba"
+    ],
+    [
+        "/boardgame/125153/gallerist",
+        "The Gallerist"
+    ],
+    [
+        "/boardgame/14105/commands-colors-ancients",
+        "Commands & Colors: Ancients"
+    ],
+    [
+        "/boardgame/10/elfenland",
+        "Elfenland"
+    ],
+    [
+        "/boardgame/4098/age-steam",
+        "Age of Steam"
+    ],
+    [
+        "/boardgame/394/kahuna",
+        "Kahuna"
+    ],
+    [
+        "/boardgame/21523/runebound-second-edition",
+        "Runebound (Second Edition)"
+    ],
+    [
+        "/boardgame/24068/shadow-hunters",
+        "Shadow Hunters"
+    ],
+    [
+        "/boardgame/11170/heroscape-master-set-rise-valkyrie",
+        "Heroscape Master Set: Rise of the Valkyrie"
+    ],
+    [
+        "/boardgame/22345/yspahan",
+        "Yspahan"
+    ],
+    [
+        "/boardgame/1234/once-upon-time-storytelling-card-game",
+        "Once Upon a Time: The Storytelling Card Game"
+    ],
+    [
+        "/boardgame/173/formula-de",
+        "Formula Dé"
+    ],
+    [
+        "/boardgame/131260/qwixx",
+        "Qwixx"
+    ],
+    [
+        "/boardgame/66589/navegador",
+        "Navegador"
+    ],
+    [
+        "/boardgame/206718/ethnos",
+        "Ethnos"
+    ],
+    [
+        "/boardgame/13308/niagara",
+        "Niagara"
+    ],
+    [
+        "/boardgame/2381/scattergories",
+        "Scattergories"
+    ],
+    [
+        "/boardgame/36946/red-november",
+        "Red November"
+    ],
+    [
+        "/boardgame/51/ricochet-robots",
+        "Ricochet Robots"
+    ],
+    [
+        "/boardgame/2425/battleship",
+        "Battleship"
+    ],
+    [
+        "/boardgame/40398/monopoly-deal-card-game",
+        "Monopoly Deal Card Game"
+    ],
+    [
+        "/boardgame/915/mystery-abbey",
+        "Mystery of the Abbey"
+    ],
+    [
+        "/boardgame/2842/transamerica",
+        "TransAmerica"
+    ],
+    [
+        "/boardgame/59294/runewars",
+        "Runewars"
+    ],
+    [
+        "/boardgame/47/chinatown",
+        "Chinatown"
+    ],
+    [
+        "/boardgame/2398/cribbage",
+        "Cribbage"
+    ],
+    [
+        "/boardgame/30933/bang-bullet",
+        "BANG! The Bullet!"
+    ],
+    [
+        "/boardgame/21882/blue-moon-city",
+        "Blue Moon City"
+    ],
+    [
+        "/boardgame/183840/oh-my-goods",
+        "Oh My Goods!"
+    ],
+    [
+        "/boardgame/229853/teotihuacan-city-gods",
+        "Teotihuacan: City of Gods"
+    ],
+    [
+        "/boardgame/826/cartagena",
+        "Cartagena"
+    ],
+    [
+        "/boardgame/27225/bananagrams",
+        "Bananagrams"
+    ],
+    [
+        "/boardgame/1465/wizard",
+        "Wizard"
+    ],
+    [
+        "/boardgame/24508/taluva",
+        "Taluva"
+    ],
+    [
+        "/boardgame/121408/trains",
+        "Trains"
+    ],
+    [
+        "/boardgame/183251/karuba",
+        "Karuba"
+    ],
+    [
+        "/boardgame/239188/chronicles-crime",
+        "Chronicles of Crime"
+    ],
+    [
+        "/boardgame/158600/hanamikoji",
+        "Hanamikoji"
+    ],
+    [
+        "/boardgame/194607/mystic-vale",
+        "Mystic Vale"
+    ],
+    [
+        "/boardgame/163602/xcom-board-game",
+        "XCOM: The Board Game"
+    ],
+    [
+        "/boardgame/7717/carcassonne-castle",
+        "Carcassonne: The Castle"
+    ],
+    [
+        "/boardgame/220/high-society",
+        "High Society"
+    ],
+    [
+        "/boardgame/146886/la-granja",
+        "La Granja"
+    ],
+    [
+        "/boardgame/7805/fearsome-floors",
+        "Fearsome Floors"
+    ],
+    [
+        "/boardgame/137297/rise-augustus",
+        "Rise of Augustus"
+    ],
+    [
+        "/boardgame/2952/trivial-pursuit-genus-edition",
+        "Trivial Pursuit: Genus Edition"
+    ],
+    [
+        "/boardgame/138788/dungeon-roll",
+        "Dungeon Roll"
+    ],
+    [
+        "/boardgame/79828/few-acres-snow",
+        "A Few Acres of Snow"
+    ],
+    [
+        "/boardgame/31730/chicago-express",
+        "Chicago Express"
+    ],
+    [
+        "/boardgame/101721/mage-wars-arena",
+        "Mage Wars Arena"
+    ],
+    [
+        "/boardgame/257501/keyforge-call-archons",
+        "KeyForge: Call of the Archons"
+    ],
+    [
+        "/boardgame/16986/ubongo",
+        "Ubongo"
+    ],
+    [
+        "/boardgame/105134/risk-legacy",
+        "Risk Legacy"
+    ],
+    [
+        "/boardgame/13004/downfall-pompeii",
+        "The Downfall of Pompeii"
+    ],
+    [
+        "/boardgame/173090/game",
+        "The Game"
+    ],
+    [
+        "/boardgame/131366/eight-minute-empire",
+        "Eight-Minute Empire"
+    ],
+    [
+        "/boardgame/171499/cacao",
+        "Cacao"
+    ],
+    [
+        "/boardgame/91514/rhino-hero",
+        "Rhino Hero"
+    ],
+    [
+        "/boardgame/71/civilization",
+        "Civilization"
+    ],
+    [
+        "/boardgame/72287/mr-jack-pocket",
+        "Mr. Jack Pocket"
+    ],
+    [
+        "/boardgame/217372/quest-el-dorado",
+        "The Quest for El Dorado"
+    ],
+    [
+        "/boardgame/97903/terror-meeple-city",
+        "Terror in Meeple City"
+    ],
+    [
+        "/boardgame/172081/burgle-bros",
+        "Burgle Bros."
+    ],
+    [
+        "/boardgame/22827/starcraft-board-game",
+        "StarCraft: The Board Game"
+    ],
+    [
+        "/boardgame/475/taj-mahal",
+        "Taj Mahal"
+    ],
+    [
+        "/boardgame/105/colossal-arena",
+        "Colossal Arena"
+    ],
+    [
+        "/boardgame/590/mille-bornes",
+        "Mille Bornes"
+    ],
+    [
+        "/boardgame/46/medici",
+        "Medici"
+    ],
+    [
+        "/boardgame/196340/yokohama",
+        "Yokohama"
+    ],
+    [
+        "/boardgame/11971/cockroach-poker",
+        "Cockroach Poker"
+    ],
+    [
+        "/boardgame/172308/broom-service",
+        "Broom Service"
+    ],
+    [
+        "/boardgame/105551/archipelago",
+        "Archipelago"
+    ],
+    [
+        "/boardgame/198928/pandemic-iberia",
+        "Pandemic: Iberia"
+    ],
+    [
+        "/boardgame/85256/timeline-inventions",
+        "Timeline: Inventions"
+    ],
+    [
+        "/boardgame/225694/decrypto",
+        "Decrypto"
+    ],
+    [
+        "/boardgame/144344/rococo",
+        "Rococo"
+    ],
+    [
+        "/boardgame/175117/celestia",
+        "Celestia"
+    ],
+    [
+        "/boardgame/203420/exit-game-abandoned-cabin",
+        "Exit: The Game – The Abandoned Cabin"
+    ],
+    [
+        "/boardgame/7854/yinsh",
+        "YINSH"
+    ],
+    [
+        "/boardgame/169124/flick-em",
+        "Flick 'em Up!"
+    ],
+    [
+        "/boardgame/55670/macao",
+        "Macao"
+    ],
+    [
+        "/boardgame/154597/hive-pocket",
+        "Hive Pocket"
+    ],
+    [
+        "/boardgame/1258/phase-10",
+        "Phase 10"
+    ],
+    [
+        "/boardgame/203993/lorenzo-il-magnifico",
+        "Lorenzo il Magnifico"
+    ],
+    [
+        "/boardgame/39938/carson-city",
+        "Carson City"
+    ],
+    [
+        "/boardgame/90419/airlines-europe",
+        "Airlines Europe"
+    ],
+    [
+        "/boardgame/54625/space-hulk-third-edition",
+        "Space Hulk (third edition)"
+    ],
+    [
+        "/boardgame/162082/deus",
+        "Deus"
+    ],
+    [
+        "/boardgame/128671/spartacus-game-blood-treachery",
+        "Spartacus: A Game of Blood & Treachery"
+    ],
+    [
+        "/boardgameexpansion/202976/7-wonders-duel-pantheon",
+        "7 Wonders Duel: Pantheon"
+    ],
+    [
+        "/boardgame/175155/forbidden-stars",
+        "Forbidden Stars"
+    ],
+    [
+        "/boardgame/191189/aeons-end",
+        "Aeon's End"
+    ],
+    [
+        "/boardgame/40628/finca",
+        "Finca"
+    ],
+    [
+        "/boardgame/24310/red-dragon-inn",
+        "The Red Dragon Inn"
+    ],
+    [
+        "/boardgame/1829/risk-2210-d",
+        "Risk 2210 A.D."
+    ],
+    [
+        "/boardgame/36932/claustrophobia",
+        "Claustrophobia"
+    ],
+    [
+        "/boardgame/148951/tiny-epic-kingdoms",
+        "Tiny Epic Kingdoms"
+    ],
+    [
+        "/boardgame/156336/onirim-second-edition",
+        "Onirim (second edition)"
+    ],
+    [
+        "/boardgame/55690/kingdom-death-monster",
+        "Kingdom Death: Monster"
+    ],
+    [
+        "/boardgame/929/great-dalmuti",
+        "The Great Dalmuti"
+    ],
+    [
+        "/boardgame/192153/pandemic-reign-cthulhu",
+        "Pandemic: Reign of Cthulhu"
+    ],
+    [
+        "/boardgame/159675/fields-arle",
+        "Fields of Arle"
+    ],
+    [
+        "/boardgame/122298/morels",
+        "Morels"
+    ],
+    [
+        "/boardgame/1293/boggle",
+        "Boggle"
+    ],
+    [
+        "/boardgameexpansion/3943/munchkin-2-unnatural-axe",
+        "Munchkin 2: Unnatural Axe"
+    ],
+    [
+        "/boardgame/2083/checkers",
+        "Checkers"
+    ],
+    [
+        "/boardgame/193037/dead-winter-long-night",
+        "Dead of Winter: The Long Night"
+    ],
+    [
+        "/boardgame/3201/lord-rings-confrontation",
+        "Lord of the Rings: The Confrontation"
+    ],
+    [
+        "/boardgame/2389/othello",
+        "Othello"
+    ],
+    [
+        "/boardgame/40793/dice-town",
+        "Dice Town"
+    ],
+    [
+        "/boardgame/110277/among-stars",
+        "Among the Stars"
+    ],
+    [
+        "/boardgame/172242/exploding-kittens-nsfw-deck",
+        "Exploding Kittens: NSFW Deck"
+    ],
+    [
+        "/boardgame/2281/pictionary",
+        "Pictionary"
+    ],
+    [
+        "/boardgame/177639/raptor",
+        "Raptor"
+    ],
+    [
+        "/boardgame/17329/animal-upon-animal",
+        "Animal Upon Animal"
+    ],
+    [
+        "/boardgame/2375/sequence",
+        "Sequence"
+    ],
+    [
+        "/boardgame/96913/lancaster",
+        "Lancaster"
+    ],
+    [
+        "/boardgame/194879/not-alone",
+        "Not Alone"
+    ],
+    [
+        "/boardgame/8051/attika",
+        "Attika"
+    ],
+    [
+        "/boardgameexpansion/55660/dixit-quest",
+        "Dixit: Quest"
+    ],
+    [
+        "/boardgame/177524/icecool",
+        "ICECOOL"
+    ],
+    [
+        "/boardgame/372/schotten-totten",
+        "Schotten Totten"
+    ],
+    [
+        "/boardgame/220877/rajas-ganges",
+        "Rajas of the Ganges"
+    ],
+    [
+        "/boardgame/257/kill-doctor-lucky",
+        "Kill Doctor Lucky"
+    ],
+    [
+        "/boardgameexpansion/13291/citadels-dark-city",
+        "Citadels:  The Dark City"
+    ],
+    [
+        "/boardgame/134726/smash-awesome-level-9000",
+        "Smash Up: Awesome Level 9000"
+    ],
+    [
+        "/boardgame/22141/cleopatra-and-society-architects",
+        "Cleopatra and the Society of Architects"
+    ]
+]

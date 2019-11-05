@@ -13,3 +13,7 @@ Analiziral bom 1000 najbolj priljubljenih družabnih igrer na spletnem portalu [
 - Katere teme so najbolj priljubljene
 - Ali leto izida vpliva na povprečno oceno
 - Ali se določeni načini igranja pojavljajo pri daljših igrah, pri igrah za več igralcev
+
+## CSV datoteke:
+- V igre.csv so zbrani osnovni podatki, tj. ime igre, id številka, leto izida itd.
+- V kategorije.csv in nacin_igranja.csv pa je za vsako kategorijo oziroma način igranja, ki ustreza neki igri posebaj napisan id igre in kategorija oz. nacin igranja

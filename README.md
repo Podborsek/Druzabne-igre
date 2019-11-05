@@ -1,7 +1,7 @@
 # Družabne igre
 Projekt pri Programiranje 1
 
-Analiziral bom družabne igre na spletnem portalu [BGG](https://boardgamegeek.com/browse/boardgame?sort=numvoters&sortdir=desc)
+Analiziral bom 1000 najbolj priljubljenih družabnih igrer na spletnem portalu [BGG](https://boardgamegeek.com/browse/boardgame?sort=numvoters&sortdir=desc)
 
 ## Za vsako igro bom zbral podatke:
 - ime in leto izida

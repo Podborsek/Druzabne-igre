@@ -33,25 +33,9 @@ km_vzorec = re.compile(
     flags=re.DOTALL
 )
 
-'''
-problemi = []
-for i in range(1,100):
-    print(i)
-    try:
-        with open("igra_{}.html".format(i), encoding='utf-8') as dat:
-            stran = dat.read()
-        print(glavni_vzorec.search(stran).groupdict())
-        print(re.findall(km_vzorec, re.findall(kategorije_blok, stran)[0]))
-        print(re.findall(km_vzorec,re.findall(mechanic_blok, stran)[0]))
-    except:
-        print("Napaka")
-        problemi.append(i)
-
-print(problemi)
-'''
 
 podatki = []
-for i in range(1,501):
+for i in range(1,1001):
     try:
         with open("igra_{}.html".format(i), encoding='utf-8') as dat:
             stran = dat.read()
@@ -62,4 +46,17 @@ for i in range(1,501):
     except:
         print("Napaka pri primeru {}".format(i))
 
-orodja.zapisi_csv(podatki, ['ime', 'id', 'leto', 'minplay', 'maxplay', 'mintime', 'maxtime', 'minage', 'ocena', 'glasovi', 'kategorije', 'mechanic'], "test.csv")
+
+
+kategorije, nacini_igranja = [], []
+for igra in podatki:
+    for kategorija in igra.pop('kategorije'):
+        kategorije.append({'id': igra['id'], 'kategorija' : kategorija})
+    for nacin_igranja in igra.pop('mechanic'):
+        nacini_igranja.append({'id': igra['id'], 'nacin_igranja' : nacin_igranja})
+
+
+
+orodja.zapisi_csv(podatki, ['ime', 'id', 'leto', 'minplay', 'maxplay', 'mintime', 'maxtime', 'minage', 'ocena', 'glasovi'], "igre.csv")
+orodja.zapisi_csv(kategorije, ['id', 'kategorija'], 'kategorije.csv')
+orodja.zapisi_csv(nacini_igranja, ['id', 'nacin_igranja'], 'nacin_igranja.csv')
